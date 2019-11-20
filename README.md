@@ -1,4 +1,5 @@
-# Sup'Com - SysTel - T-IoT - Node.js Tutorial
+# Projet Cloud-of- things
+
 
 This tutorial is intended for `SysTel`'s & `AIM`'s students at `Sup'Com` Engineering School 
 and `IoT`'s students at National Engineering School of Tunis: `ENIT`.
